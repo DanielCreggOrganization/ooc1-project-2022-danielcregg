@@ -10,6 +10,7 @@ public class Main {
 
 		// This is a print statement.
 		System.out.println("This is the main method. I am inside the Main calss.");
+		System.out.println("Hello");
 
 	} // End main method
 } // End Main Class
