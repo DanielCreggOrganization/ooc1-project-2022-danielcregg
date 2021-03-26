@@ -1,7 +1,7 @@
 # OOC1 Project
 
 **Title:** Items Application Manager  
-**Name:** Patrick Murphy  
+**Name:** Daniel Cregg  
 **Student ID:** G00123456  
 
 ## Application Function
