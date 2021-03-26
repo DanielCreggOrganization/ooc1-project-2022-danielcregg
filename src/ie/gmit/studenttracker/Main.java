@@ -1,4 +1,4 @@
-package ie.gmit.testpackage;
+package ie.gmit.studenttracker;
 
 /**
  * This is the Main class. It contains the main method.
@@ -9,7 +9,7 @@ public class Main {
 	public static void main(String[] args) {
 
 		// This is a print statement.
-		System.out.println("This is the main method. I am inside the Main calss.");
+		//System.out.println("This is the main method. I am inside the Main calss.");
 		System.out.println("Hello");
 
 	} // End main method
