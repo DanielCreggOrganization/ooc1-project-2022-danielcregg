@@ -1,4 +1,4 @@
-# OOC1 Project
+# OOC1 Final Project
 
 **Title:** Items Application Manager  
 **Name:** Daniel Cregg  
