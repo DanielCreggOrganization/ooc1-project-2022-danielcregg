@@ -10,7 +10,7 @@ Discuss, in detail, what the application does. Add a screenshot of the applicati
 
 ## Running the Application
 
-Provide step by step instructions on how to run your applicaiton. Are there any prerequisite softwares required?
+Provide step by step instructions on how to run your application. Are there any prerequisite softwares required?
 
 ```list
 List the instructions step by step
@@ -42,7 +42,7 @@ Discuss in detail how the application is structured. List all classes and descri
 
 ## User Demo
 
-Discuss the console design used. Discuss why you chose this design and any features you thing make your application stands out. Add a gif of the application in use like below:
+Discuss the console design used. Discuss why you chose this design and any features you think make your application stands out. Add a gif of the application in use like below:
 
 ![alt text](resources/consoleDemo.gif "My App")
 
