@@ -3,6 +3,8 @@ package ie.gmit.studenttracker;
 //Import the Scanner class to read user input
 import java.util.Scanner;
 
+import javafx.scene.shape.ClosePath;
+
 /**
  * This is the Main class. It contains the main method.
  */
@@ -70,6 +72,9 @@ public class Main {
 				break;
 			} // End If/Else
 		} // End while
+
+		// Close Scanner object as no more user inputs are required
+		userInput.close();
 
 	} // End main method
 } // End Main Class
